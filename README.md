@@ -1,2 +1,5 @@
 # Punya-Kalin-Aulia-ALGO-II
-Kumpulan LKM algoritma pemrograman 2
+Nama : Kalin Aulia Haifa
+No Absen : 9
+NIM : 2530801068
+Mata Kuliah : Algoritma Pemrograman 2
